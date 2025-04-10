@@ -2,8 +2,5 @@ test text
 new line
 123
 new change
-<<<<<<< HEAD
 new line from user1
-=======
 new line from user2
->>>>>>> 5e46b8eda539fe38ec26db870c6e8c91233bdb38
